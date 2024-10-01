@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DanahDM
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Data Analysi
